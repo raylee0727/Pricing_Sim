@@ -10,7 +10,7 @@
 
 ## 計畫連結
 + 計畫雲端連結：https://drive.google.com/drive/u/0/folders/15tYMUlJZepjZWZJk_gnFw-zf4u7JW5K_ <br>
-+ 論文編輯網址(overleaf)：https://www.overleaf.com/project/5fdb687be648640a06653258 <br>
++ MCAC2021 論文編輯網址(overleaf)：https://www.overleaf.com/project/5fdb687be648640a06653258 <br>
 
 ## 其他相關連結
 + the R and matlab code in Cizek(2011). Retrieved from QuantNetXploRer (https://quantnet.hu-berlin.de/).
