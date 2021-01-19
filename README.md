@@ -12,5 +12,4 @@
 + 論文編輯網址(overleaf)：https://www.overleaf.com/project/5fdb687be648640a06653258 <br>
 
 ## 其他相關連結
-+ the R or matlab code in Cizek(2011). Retrieved from QuantNetXploRer (https://quantnet.hu-berlin.de/).
-The contents of the example code folders are from from QuantNetXploRer, while the contents of the personal folders are edited by myself.
++ the R and matlab code in Cizek(2011). Retrieved from QuantNetXploRer (https://quantnet.hu-berlin.de/).
